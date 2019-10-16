@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://huoshefaiw.mut10.com/sitemap.xml
